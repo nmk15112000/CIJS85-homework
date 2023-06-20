@@ -37,10 +37,10 @@ footer{
   display:inline;
 }
 .left{
-  Float:left;
-  margin:0
+  float:left;
+  margin:0;
 }
-.Right{
-  Float:right;
-  margin:0
+.right{
+  float:right;
+  margin:0;
 }

@@ -25,8 +25,8 @@ function App() {
         <label class="text">Doing exercises</label>
       </div>
       <footer>
-        <p class="right">5 task left!</p>
-        <p class="left">MindX todolist</p>
+        <p class="left">5 task left!</p>
+        <p class="right">MindX todolist</p>
       </footer>
     </div>
     
