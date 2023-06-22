@@ -1,0 +1,40 @@
+.App{
+  max-width: 832px;
+  height:395px;
+  border-radius:20px;
+  display:flex;
+
+}
+.image_bar{
+  width: 416px;
+  height: 395px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #FAF096;
+  border-radius: 0 20px 20px 0;
+}
+.image{
+  Width:133px;
+  Height:150px;
+
+}
+.Register_bar{
+  width: 100%;
+  height: 395px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h2{
+  background-color:#FFD333;
+  width: 295px;
+  height:37px;
+  border-radius:5px;
+  text-align: center;
+}
+hr{
+  width:300px;
+  color:black;  
+}
